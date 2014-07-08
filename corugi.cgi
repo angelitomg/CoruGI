@@ -5,7 +5,7 @@
 #
 # Install:
 # * Copy corugi.cgi to your CGI scripts folder
-# * Execute chmod +x in corugi.cgi
+# * Execute chmod +x corugi.cgi
 # * Access via web
 #
 # Angelito M. Goulart
